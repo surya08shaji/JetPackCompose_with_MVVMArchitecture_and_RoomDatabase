@@ -162,7 +162,6 @@ fun UserItem(item: DataModel) {
                                 start.linkTo(parent.start)
 //                                end.linkTo(parent.end)
                             }
-//                    contentScale = ContentScale.Crop
                     )
 
                     val (name) = createRefs()

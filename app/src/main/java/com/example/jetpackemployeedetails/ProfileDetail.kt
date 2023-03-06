@@ -85,7 +85,6 @@ fun ShowData() {
 //                    end.linkTo(parent.end, margin = 16.dp)
                 }
 
-//                .padding(16.dp)
         )
 
         val (back) = createRefs()
